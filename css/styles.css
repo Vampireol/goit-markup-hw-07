@@ -413,6 +413,11 @@ img {
   margin-bottom: 10px;
 }
 
+.form__item-markup {
+  display: flex;
+  justify-content: center;
+}
+
 .form__label {
   display: flex;
   margin-bottom: 4px;
@@ -505,7 +510,6 @@ img {
 }
 
 .form__checkbox-text {
-  margin-left: 8px;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
