@@ -1,20 +1,15 @@
-@import './utils/fonts';
 @import './utils/variables';
-@import './base/reset';
-
-@import './base/common';
-
-@import './components/header';
+@import './utils/reset';
+@import './components/generalized';
+@import './components/page-header';
 @import './components/logo';
 @import './components/hero';
-@import './layouts/modal';
-@import './layouts/modal-form';
-@import './components/portfolio';
-@import './components/features';
-@import './components/activity';
-@import './components/team';
-@import './layouts/social';
-@import './components/clients';
+@import './components/button';
+@import './components/modal';
+@import './layout/section-features';
+@import './layout/section-process';
+@import './layout/section-team';
+@import './layout/secion-client';
 @import './components/footer';
-@import './layouts/join';
-@import './layouts/subscribe';
+@import './components/filter';
+@import './layout/section-works';
